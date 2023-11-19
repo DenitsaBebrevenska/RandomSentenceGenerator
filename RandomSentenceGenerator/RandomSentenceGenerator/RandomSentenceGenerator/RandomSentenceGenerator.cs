@@ -161,7 +161,7 @@
 		{
 			Console.ForegroundColor = ConsoleColor.Green;
 			Console.WriteLine("Welcome to the Random Sentence Generator!");
-			Console.WriteLine("Let`s have a laugh or wonder what is that even supposed to mean...");
+			Console.WriteLine("Let's have a laugh or wonder what that is even supposed to mean...");
 			Console.WriteLine("Press any key to continue...");
 			Console.ReadKey();
 			Console.Clear();
